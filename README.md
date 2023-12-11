@@ -1,7 +1,7 @@
 # bike-data-cleaning
 It is a project in which I cleaned a bike sales dataset using SQL and SQL Queries.
 
-I have used PostgreSQL as the RDBMS for the task of accessing and managing the database.
+I have used PostgreSQL as the RDBMS for the task of accessing and managing the database. I have also attached a txt file that contains all the SQL quries that I performed.
 
 In this project, I have dealt with various problem that we encounter generally when we have an uncleaned dataset. Some of the tasks that I perfomed are :-
 
