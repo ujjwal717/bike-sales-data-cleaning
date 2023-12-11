@@ -12,7 +12,7 @@ In this project, I have dealt with various problem that we encounter generally w
 5) Creating new columns according to the need.
 6) Removing unnecessary columns/fields.
 7) Extracting required data from the rows of various columns.
-8) Solving the "0" values in the sales data by imputing them with caculated columns such as -
+8) Solving the "0" values in the sales data by imputing them with calculated columns such as -
 
     { update sales_data 
           set revenue = unit_price * order_quantity
