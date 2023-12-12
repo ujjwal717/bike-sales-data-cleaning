@@ -17,3 +17,12 @@ In this project, I have dealt with various problem that we encounter generally w
     { update sales_data 
           set revenue = unit_price * order_quantity
           where revenue = 0 }
+
+
+   I am attaching few images of the dataset after performing extensive cleaning and transformation operation using SQL.
+
+   ![bikesales 1](https://github.com/ujjwal717/bike-sales-data-cleaning/assets/93403224/40ce06ea-23c1-4e68-b8e1-440f0da70f08)
+
+   ![bikesales2](https://github.com/ujjwal717/bike-sales-data-cleaning/assets/93403224/79e4893f-9ca3-494c-9376-5e9e072ca429)
+
+
