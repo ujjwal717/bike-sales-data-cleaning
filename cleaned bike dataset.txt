@@ -1,0 +1,88 @@
+serial_id,sales_order,Date,customer_age,customer_gender,country,state,product_category,sub_category,order_quantity,unit_cost,unit_price,profit,cost,revenue,bike_size,product_model,product_color
+169,000261732,2021-12-12,34,M,Australia,"New South Wales",Bikes,"Mountain Bikes",2,1252,2295,2086,2504,4590,38,Mountain-200,Black
+157,000261720,2021-12-10,40,M,Australia,"New South Wales",Bikes,"Mountain Bikes",2,1252,2295,2086,2504,4590,42,Mountain-200,Black
+181,000261744,2021-12-16,38,M,Australia,"New South Wales",Bikes,"Mountain Bikes",2,1252,2295,2086,2504,4590,38,Mountain-200,Black
+190,000261753,2021-12-18,39,M,"United States",California,Bikes,"Mountain Bikes",3,1252,2295,3129,3756,6885,42,Mountain-200,Black
+191,000261754,2021-12-18,26,M,France,"Seine (Paris)",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+192,000261755,2021-12-18,36,M,"United States",Washington,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+193,000261756,2021-12-19,17,M,France,Nord,Bikes,"Mountain Bikes",4,1266,2320,4216,5064,9280,46,Mountain-200,Silver
+194,000261757,2021-12-19,19,F,Australia,Victoria,Bikes,"Mountain Bikes",4,295,540,980,1180,2160,44,Mountain-500,Black
+211,000261774,2021-12-22,41,M,"United States",California,Bikes,"Mountain Bikes",3,1252,2295,3129,3756,6885,42,Mountain-200,Black
+212,000261775,2021-12-22,19,F,Australia,"New South Wales",Bikes,"Mountain Bikes",1,308,565,257,308,565,42,Mountain-500,Silver
+131,000261695,2021-12-01,39,F,"United States",California,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,46,Mountain-200,Black
+204,000261767,2021-12-20,57,M,Australia,Queensland,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,46,Mountain-200,Black
+205,000261768,2021-12-20,29,M,Canada,"British Columbia",Bikes,"Mountain Bikes",3,295,540,735,885,1620,52,Mountain-500,Black
+206,000261769,2021-12-20,35,F,Australia,Queensland,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+167,000261730,2021-12-12,36,F,Australia,"New South Wales",Bikes,"Mountain Bikes",4,1266,2320,4216,5064,9280,42,Mountain-200,Silver
+168,000261731,2021-12-12,37,M,"United States",California,Bikes,"Mountain Bikes",4,420,769,1396,1680,3076,46,Mountain-400-W,Silver
+170,000261733,2021-12-12,35,F,Australia,Victoria,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,42,Mountain-200,Silver
+171,000261734,2021-12-12,38,F,"United States",Washington,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,42,Mountain-200,Silver
+182,000261745,2021-12-16,27,F,France,"Seine et Marne",Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,46,Mountain-200,Silver
+213,000261776,2021-12-22,25,M,France,"Seine (Paris)",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,38,Mountain-200,Black
+158,000261721,2021-12-10,26,M,"United Kingdom",England,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,38,Mountain-200,Black
+159,000261722,2021-12-10,34,M,"United States",California,Bikes,"Mountain Bikes",1,295,540,245,295,540,40,Mountain-500,Black
+160,000261723,2021-12-10,34,F,"United States",Washington,Bikes,"Mountain Bikes",1,1912,3400,1488,1912,3400,44,Mountain-100,Silver
+161,000261724,2021-12-10,38,M,Australia,"New South Wales",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,38,Mountain-200,Black
+162,000261725,2021-12-11,24,F,France,"Seine (Paris)",Bikes,"Mountain Bikes",3,1252,2295,3129,3756,6885,38,Mountain-200,Black
+163,000261726,2021-12-11,41,F,Australia,"New South Wales",Bikes,"Mountain Bikes",2,420,769,698,840,1538,38,Mountain-400-W,Silver
+195,000261758,2021-12-19,25,M,France,"Seine (Paris)",Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,38,Mountain-200,Black
+196,000261759,2021-12-19,35,F,"United States",Oregon,Bikes,"Mountain Bikes",4,1898,3375,5908,7592,13500,48,Mountain-100,Black
+197,000261760,2021-12-19,37,M,"United States",Oregon,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,38,Mountain-200,Black
+198,000261761,2021-12-19,39,F,"United States",California,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,46,Mountain-200,Black
+136,000261700,2021-12-03,24,F,"United Kingdom",England,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,38,Mountain-200,Black
+137,000261701,2021-12-03,37,M,"United States",Washington,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+138,000261701,2021-12-03,37,M,"United States",Washington,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+140,000261703,2021-12-05,39,F,"United States",California,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,46,Mountain-200,Black
+141,000261704,2021-12-05,42,M,Germany,Nordrhein-Westfalen,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,38,Mountain-200,Black
+214,000261777,2021-12-22,27,F,Canada,"British Columbia",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+215,000261778,2021-12-22,41,M,Germany,Hessen,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+135,000261699,2021-12-03,37,F,"United  States",California,Bikes,"Mountain Bikes",2,209,2295,2086,418,4590,46,Mountain-200,Black
+216,000261779,2021-12-23,30,F,"United States",Oregon,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,42,Mountain-200,Silver
+217,000261780,2021-12-23,31,F,Canada,"British Columbia",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,42,Mountain-200,Black
+218,000261781,2021-12-23,35,F,"United States",California,Bikes,"Mountain Bikes",1,295,540,245,295,540,42,Mountain-500,Black
+219,000261782,2021-12-24,38,M,Australia,Queensland,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,42,Mountain-200,Black
+186,000261749,2021-12-18,35,F,Australia,"New South Wales",Bikes,"Mountain Bikes",4,308,565,1028,1232,2260,42,Mountain-500,Silver
+187,000261750,2021-12-18,38,F,Germany,Nordrhein-Westfalen,Bikes,"Mountain Bikes",4,1266,2320,4216,5064,9280,46,Mountain-200,Silver
+188,000261751,2021-12-18,24,F,France,"Seine Saint Denis",Bikes,"Mountain Bikes",3,1266,2320,3162,3798,6960,38,Mountain-200,Silver
+189,000261752,2021-12-18,26,F,"United Kingdom",England,Bikes,"Mountain Bikes",3,420,769,1047,1260,2307,42,Mountain-400-W,Silver
+164,000261727,2021-12-11,27,M,Canada,"British Columbia",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+165,000261728,2021-12-11,37,M,"United States",California,Bikes,"Mountain Bikes",1,420,769,349,420,769,46,Mountain-400-W,Silver
+166,000261729,2021-12-11,38,F,"United States",California,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+172,000261735,2021-12-13,32,F,Australia,Queensland,Bikes,"Mountain Bikes",3,1266,2320,3162,3798,6960,42,Mountain-200,Silver
+173,000261736,2021-12-13,40,F,"United States",California,Bikes,"Mountain Bikes",1,308,565,257,308,565,40,Mountain-500,Silver
+174,000261737,2021-12-13,44,F,"United Kingdom",England,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,38,Mountain-200,Black
+175,000261738,2021-12-13,49,M,"United Kingdom",England,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,38,Mountain-200,Black
+176,000261739,2021-12-14,30,F,"United States",Washington,Bikes,"Mountain Bikes",2,1266,2320,2108,2532,4640,38,Mountain-200,Silver
+177,000261740,2021-12-14,32,M,"United States",California,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+178,000261741,2021-12-14,32,F,Australia,Victoria,Bikes,"Mountain Bikes",1,420,769,349,420,769,46,Mountain-400-W,Silver
+179,000261742,2021-12-15,29,F,"United States",California,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,42,Mountain-200,Silver
+147,000261710,2021-12-06,47,M,"United Kingdom",England,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+148,000261711,2021-12-07,30,M,"United States",California,Bikes,"Mountain Bikes",4,420,769,1396,1680,3076,38,Mountain-400-W,Silver
+149,000261712,2021-12-07,38,M,"United States",California,Bikes,"Mountain Bikes",2,1266,2320,2108,2532,4640,42,Mountain-200,Silver
+150,000261713,2021-12-08,19,F,Australia,"New South Wales",Bikes,"Mountain Bikes",4,308,565,1028,1232,2260,42,Mountain-500,Silver
+151,000261714,2021-12-08,30,F,Canada,"British Columbia",Bikes,"Mountain Bikes",4,1266,2320,4216,5064,9280,38,Mountain-200,Silver
+154,000261717,2021-12-09,33,F,Australia,Victoria,Bikes,"Mountain Bikes",2,1898,3375,2954,3796,6750,38,Mountain-100,Black
+180,000261743,2021-12-16,33,F,Australia,"New South Wales",Bikes,"Mountain Bikes",2,1252,2295,2086,2504,4590,38,Mountain-200,Black
+132,000261695,2021-12-01,44,M,"United Kingdom",England,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,42,Mountain-200,Silver
+133,000261697,2021-12-02,37,M,"United States",California,Bikes,"Mountain Bikes",2,420,769,698,840,1538,46,Mountain-400-W,Silver
+134,000261698,2021-12-02,31,F,Australia,"New South Wales",Bikes,"Mountain Bikes",1,420,769,349,420,769,42,Mountain-400-W,Silver
+143,000261706,2021-12-05,37,F,"United States",California,Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+144,000261707,2021-12-06,23,M,"United Kingdom",England,Bikes,"Mountain Bikes",3,420,769,1047,1260,2307,46,Mountain-400-W,Silver
+145,000261708,2021-12-06,27,M,Canada,"British Columbia",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,46,Mountain-200,Black
+146,000261709,2021-12-06,36,M,Australia,"New South Wales",Bikes,"Mountain Bikes",1,1252,2295,1043,1252,2295,42,Mountain-200,Black
+142,000261705,2021-12-05,35,F,Australia,Queensland,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+199,000261762,2021-12-19,63,F,Australia,Queensland,Bikes,"Mountain Bikes",4,1252,2295,4172,5008,9180,46,Mountain-200,Black
+200,000261763,2021-12-19,18,M,Australia,"South Australia",Bikes,"Mountain Bikes",2,295,540,490,590,1080,40,Mountain-500,Black
+201,000261764,2021-12-19,56,F,Germany,Hessen,Bikes,"Mountain Bikes",2,1252,2295,2086,2504,4590,46,Mountain-200,Black
+202,000261765,2021-12-19,39,F,"United States",Washington,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+203,000261766,2021-12-20,33,F,Australia,Victoria,Bikes,"Mountain Bikes",4,1898,3375,5908,7592,13500,38,Mountain-100,Black
+155,000261718,2021-12-09,41,F,Germany,Hamburg,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,42,Mountain-200,Silver
+156,000261719,2021-12-10,34,F,"United States",California,Bikes,"Mountain Bikes",2,1252,2295,2086,2504,4590,42,Mountain-200,Black
+183,000261746,2021-12-17,37,F,"United States",Washington,Bikes,"Mountain Bikes",2,1266,2320,2108,2532,4640,38,Mountain-200,Silver
+184,000261747,2021-12-17,31,M,Australia,"New South Wales",Bikes,"Mountain Bikes",1,420,769,349,420,769,42,Mountain-400-W,Silver
+185,000261748,2021-12-17,42,F,Germany,Nordrhein-Westfalen,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,46,Mountain-200,Silver
+207,000261770,2021-12-20,35,M,Australia,Victoria,Bikes,"Mountain Bikes",1,1266,2320,1054,1266,2320,38,Mountain-200,Silver
+208,000261771,2021-12-21,26,M,France,Somme,Bikes,"Mountain Bikes",3,1266,2320,3162,3798,6960,38,Mountain-200,Silver
+209,000261772,2021-12-21,23,M,"United Kingdom",England,Bikes,"Mountain Bikes",2,420,769,698,840,1538,46,Mountain-400-W,Silver
+210,000261773,2021-12-22,30,F,"United States",Washington,Bikes,"Mountain Bikes",3,1266,2320,3162,3798,6960,38,Mountain-200,Silver
+139,000261702,2021-12-04,31,F,Australia,"New South Wales",Bikes,"Mountain Bikes",4,420,1816,1396,1680,7264,42,Mountain-400-W,Silver
